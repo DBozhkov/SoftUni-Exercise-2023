@@ -1,0 +1,8 @@
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\bin\Debug\netcoreapp2.2\DatabaseExtended.deps.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\bin\Debug\netcoreapp2.2\DatabaseExtended.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\bin\Debug\netcoreapp2.2\DatabaseExtended.pdb
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\obj\Debug\netcoreapp2.2\DatabaseExtended.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\obj\Debug\netcoreapp2.2\DatabaseExtended.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\obj\Debug\netcoreapp2.2\DatabaseExtended.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\obj\Debug\netcoreapp2.2\DatabaseExtended.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\DatabaseExtended\obj\Debug\netcoreapp2.2\DatabaseExtended.pdb

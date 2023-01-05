@@ -1,0 +1,17 @@
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Mono.Cecil.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.Tests.deps.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.Tests.runtimeconfig.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.Tests.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.Tests.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.Tests.pdb
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\bin\Debug\netcoreapp2.2\Database.pdb
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.csproj.CopyComplete
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\Database.Tests\obj\Debug\netcoreapp2.2\Database.Tests.pdb

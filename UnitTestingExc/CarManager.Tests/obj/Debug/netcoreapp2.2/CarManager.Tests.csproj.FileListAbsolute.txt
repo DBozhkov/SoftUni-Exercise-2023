@@ -1,0 +1,17 @@
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\Mono.Cecil.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.Tests.deps.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.Tests.runtimeconfig.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.Tests.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.Tests.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.Tests.pdb
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\bin\Debug\netcoreapp2.2\CarManager.pdb
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.csproj.CopyComplete
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.dll
+C:\Users\Dimitar\source\repos\UnitTestingExc\CarManager.Tests\obj\Debug\netcoreapp2.2\CarManager.Tests.pdb
