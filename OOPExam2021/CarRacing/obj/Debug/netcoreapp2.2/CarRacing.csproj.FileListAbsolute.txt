@@ -1,0 +1,11 @@
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\bin\Debug\netcoreapp2.2\CarRacing.deps.json
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\bin\Debug\netcoreapp2.2\CarRacing.runtimeconfig.json
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\bin\Debug\netcoreapp2.2\CarRacing.runtimeconfig.dev.json
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\bin\Debug\netcoreapp2.2\CarRacing.dll
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\bin\Debug\netcoreapp2.2\CarRacing.pdb
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.csprojAssemblyReference.cache
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.AssemblyInfoInputs.cache
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.AssemblyInfo.cs
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.dll
+C:\Users\Dimitar\source\repos\OOPExam2021\CarRacing\obj\Debug\netcoreapp2.2\CarRacing.pdb
