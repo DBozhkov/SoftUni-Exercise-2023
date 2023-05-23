@@ -1,8 +1,0 @@
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\bin\Debug\netcoreapp2.2\FightingArena.deps.json
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\bin\Debug\netcoreapp2.2\FightingArena.dll
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\bin\Debug\netcoreapp2.2\FightingArena.pdb
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\obj\Debug\netcoreapp2.2\FightingArena.csproj.CoreCompileInputs.cache
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\obj\Debug\netcoreapp2.2\FightingArena.AssemblyInfoInputs.cache
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\obj\Debug\netcoreapp2.2\FightingArena.AssemblyInfo.cs
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\obj\Debug\netcoreapp2.2\FightingArena.dll
-C:\Users\Dimitar\source\repos\UnitTestingExc\FightingArena\obj\Debug\netcoreapp2.2\FightingArena.pdb
